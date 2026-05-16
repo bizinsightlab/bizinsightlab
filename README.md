@@ -43,7 +43,7 @@ Actively looking for entry-level roles:
 
 ## Projects
 
-1. 🏋️‍♂️ **[customer-churn-prediction-gym](https://github.com/bizinsightlab/customer-churn-prediction-gym)**
+1. 🏋️‍♂️ **[customer-churn-prediction-gym](https://github.com/bizinsightlab/customer-churn-prediction)**
    *Predictive model to identify customers at high risk of churn using Random Forest and Python.*
 
 2. 🛢️ **[ml-business-decisions-pricing-risk](https://github.com/bizinsightlab/ml-business-decisions-pricing-risk)**

@@ -26,10 +26,12 @@ Ireland (September 2026).
 
 ## Career Focus
 
-Actively looking for entry-level roles:
-- Junior Data Analyst
-- Business Intelligence Analyst
-- Reporting / Analytics Specialist
+Actively looking for entry-level and junior roles where I can apply my analytical training to support business decision-making. Currently based in Ireland with primary focus on local opportunities, but also open to roles in other locations.
+
+* 📊 **Junior Data Analyst** / **Graduate Data Analyst**
+* 📈 **Business Intelligence Analyst (Junior)** / **Junior BI Developer**
+* 📑 **Reporting / Analytics Specialist**
+* 👥 **Associate Data Analyst** / **Data Support Specialist**
 
 ---
 

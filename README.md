@@ -2,7 +2,7 @@
 
 **Business Professional transitioning into Data Analytics & Business Intelligence**
 
-Cork, Ireland | linkedin.com/in/albertoalbini
+Cork, Ireland | [linkedin.com/in/albertoalbini](https://linkedin.com/in/beto-albini)
 
 ---
 

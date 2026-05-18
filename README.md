@@ -1,45 +1,36 @@
-# Alberto Enio Albini
+# Hi, I'm Alberto Enio Albini 👋
 
-**Business Professional transitioning into Data Analytics & Business Intelligence**
-
-Cork, Ireland | [linkedin.com/in/albertoalbini](https://linkedin.com/in/beto-albini)
-
----
-
-## About Me
-
-Professional with 15+ years of experience in financial management, 
-operations, and e-commerce, now transitioning into Data Analytics 
-and Business Intelligence.
-
-Throughout my career, data has always been central to my work — 
-from managing financial reports and reconciliations to analysing 
-sales performance and controlling inventory. I am now formalising 
-these skills through dedicated training in Python, SQL, and 
-Machine Learning.
-
-Currently completing the IBM BI Analyst Certificate (Coursera) 
-and enrolled in the Higher Diploma in Business Analytics at ATU 
-Ireland (September 2026).
+### Business Professional | Quality & Process Analyst | Data-Driven Intelligence
+📍 Cork, Ireland | 🔗 [linkedin.com/in/albertoalbini](https://linkedin.com/in/albertoalbini)
 
 ---
 
-## Career Focus
+## 📌 About Me
 
-Actively looking for entry-level and junior roles where I can apply my analytical training to support business decision-making. Currently based in Ireland with primary focus on local opportunities, but also open to roles in other locations.
+Professional with 15+ years of experience in financial management, operations, and e-commerce, integrating organizational governance with Data Analytics and Business Intelligence. 
 
-* 📊 **Junior Data Analyst** / **Graduate Data Analyst**
-* 📈 **Business Intelligence Analyst (Junior)** / **Junior BI Developer**
-* 📑 **Reporting / Analytics Specialist**
-* 👥 **Associate Data Analyst** / **Data Support Specialist**
+Throughout my career, data and process optimization have always been central to my work — from managing complex financial reports to analyzing operational performance, controlling inventory, and ensuring quality assurance. I leverage analytical tools to translate raw company data into structured, automated strategies that support senior management decision-making and improve profitability.
+
+Currently enhancing my portfolio through the **IBM BI Analyst Certificate** and enrolled in the **Higher Diploma in Business Analytics at ATU Ireland** (September 2026).
 
 ---
 
-## Tech Stack
+## 🎯 Career Focus
 
-- Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL
-- Tools: Jupyter Notebook, VS Code, GitHub
-- Skills: EDA, Data Cleaning, Statistical Analysis, Machine Learning (fundamentals)
+I bridge the gap between business operations and technical data intelligence. I target analytical and data-centric roles where I can leverage my professional background alongside my modern data capabilities:
+
+* 📊 **Data Analyst** (Junior / Graduate / Associate)
+* 📈 **Business Intelligence Analyst** / BI Developer
+* ⚙️ **Quality & Operations Analyst** / Process Analyst
+* 📑 **Reporting & Analytics Specialist** / Data Support
+
+---
+
+## 🛠️ Tech Stack & Competencies
+
+* **Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL.
+* **BI & Tools:** Power BI, Tableau, Excel, Jupyter Notebook, GitHub, ETL.
+* **Methodologies:** Process Optimization, Quality Management, Lean Methodology, Financial Operations, Exploratory Data Analysis (EDA), Predictive Modeling, Time Series Forecasting.
 
 ---
 
@@ -69,7 +60,7 @@ Actively looking for entry-level and junior roles where I can apply my analytica
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- Data Science Certificate — TripleTen (May 2025)
-- IBM BI Analyst Certificate — Coursera/IBM (Expected Sept 2025)
+* **Data Science Certificate** — TripleTen (May 2025)
+* **IBM BI Analyst Certificate** — Coursera/IBM (Expected Sept 2025)

@@ -57,6 +57,9 @@ I bridge the gap between business operations and technical data intelligence. I 
 7. 🛒 **[data-cleaning-feature-engineering-python](https://github.com/bizinsightlab/data-cleaning-feature-engineering-python)**
    *Advanced data wrangling, anomaly mapping, and feature engineering using Python and Pandas.*
 
+8. 📈 **[crm-sales-dashboard-sheets](https://github.com/bizinsightlab/crm-sales-dashboard-sheets)**
+   *Interactive CRM dashboard developed in Google Sheets to analyze pipeline trends, track sales agent performance, and monitor regional revenue KPIs.*
+
 
 ---
 

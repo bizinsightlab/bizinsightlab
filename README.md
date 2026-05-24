@@ -1,7 +1,7 @@
 # Hi, I'm Alberto Enio Albini 👋
 
 ### Business Professional | Quality & Process Analyst | Data-Driven Intelligence
-📍 Cork, Ireland | 🔗 [linkedin.com/in/albertoalbini](www.linkedin.com/in/beto-albini)
+📍 Cork, Ireland | 🔗 [LinkedIn](https://www.linkedin.com/in/beto-albini)
 
 ---
 

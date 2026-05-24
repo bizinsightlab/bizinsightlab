@@ -64,7 +64,13 @@ I bridge the gap between business operations and technical data intelligence. I 
 
 
 ---
+## 🎓 Education
 
+* **Higher Diploma in Business Analytics** — Atlantic Technological University (ATU), Ireland *(Enrolled / Expected 2027)*
+* **Bachelor's Degree in Business Administration** — Dom Bosco University, Brazil
+* **Associate Degree in Quality Management** — Federal University of Paraná (UFPR), Brazil
+
+  
 ## 📜 Certifications
 
 * **Data Science Certificate** — TripleTen (May 2025)

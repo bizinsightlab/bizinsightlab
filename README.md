@@ -29,7 +29,7 @@ I bridge the gap between business operations and technical data intelligence. I 
 ## 🛠️ Tech Stack & Competencies
 
 * **Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL.
-* **BI & Tools:** Power BI, Tableau, Excel, Jupyter Notebook, GitHub, ETL.
+* **BI & Tools:** Power BI, Tableau, Excel, Google Sheets, Jupyter Notebook, GitHub, ETL.
 * **Methodologies:** Process Optimization, Quality Management, Lean Methodology, Financial Operations, Exploratory Data Analysis (EDA), Predictive Modeling, Time Series Forecasting.
 
 ---
